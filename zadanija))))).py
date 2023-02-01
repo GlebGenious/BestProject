@@ -1,0 +1,5 @@
+a = input('Введите длину')
+b = input('введите ширину')
+c = input('Введите высоту')
+result = int(a) * int(b) * int(c)
+print("обьём равен: " + (str(result)))
