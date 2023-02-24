@@ -6,5 +6,5 @@ def zvezda(text2):
       text2 = text2.replace(character,"*")
   return text2
 
-text = input()
+text = input('Введите текст ')
 print(zvezda(text))
